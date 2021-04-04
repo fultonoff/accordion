@@ -1,6 +1,7 @@
 .accordion-container {
   max-width: 1100px;
   margin: 0 auto;
+  margin-top: 8rem;
 }
 
 .accordion-container .ac {

@@ -2,10 +2,13 @@
 
     max-width: 1100px;
     margin: 0 auto;
+    margin-top: 8rem;
+
 
     .ac{
         background: linear-gradient(135deg, orangered, rgb(192, 50, 205));
         box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.12);
+        
 
         &-header{
             border: none;
@@ -37,12 +40,14 @@
         &-pannel{
             font-family: 'Rubik';
             
+            
            
         }
 
         &-text{
             background: #fff;
             padding: 2rem 0;
+           
             
         }
     }
